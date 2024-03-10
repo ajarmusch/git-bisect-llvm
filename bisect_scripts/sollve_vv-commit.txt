@@ -1,0 +1,8 @@
+commit b3a4c2334ac2670ce02ca819907aa2d08eb1ce6d
+Merge: 2f8996e cd16278
+Author: fel-cab <110852406+fel-cab@users.noreply.github.com>
+Date:   Wed Oct 4 09:43:29 2023 -0400
+
+    Merge pull request #760 from SOLLVE/makeDefAdjustments
+    
+    Added make.def fixes
