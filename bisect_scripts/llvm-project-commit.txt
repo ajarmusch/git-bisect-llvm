@@ -1,9 +1,0 @@
-commit 60dda1fc6ef82c5d7fe54000e6c0a21e7bafdeb5
-Author: Noah Goldstein <goldstein.w.n@gmail.com>
-Date:   Sun Mar 10 13:10:07 2024 -0500
-
-    [InstCombine] fold `(icmp eq/ne (and (shl -1, X), Y), 0)` -> `(icmp eq/ne (lshr Y, X), 0)`
-    
-    Proofs: https://alive2.llvm.org/ce/z/oSRGBt
-    
-    Closes #84691

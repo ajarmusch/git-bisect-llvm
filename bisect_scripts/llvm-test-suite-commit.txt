@@ -1,5 +1,0 @@
-commit 37e860161cd94337010927fe7321f2f92fac647c
-Author: Kiran Chandramohan <kiran.chandramohan@arm.com>
-Date:   Sun Mar 10 10:57:58 2024 +0000
-
-    Disable internal_dummy_2.f08 (#106)
